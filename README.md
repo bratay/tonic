@@ -1,2 +1,2 @@
-# tonic
+# Tonic
 ML generated music
